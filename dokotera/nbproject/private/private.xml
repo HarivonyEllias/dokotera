@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/NetBeansProjects/dokotera/src/java/model/AretinaParams.java</file>
+            <file>file:/D:/NetBeansProjects/dokotera/src/java/model/FanafodyParamsHealer.java</file>
+            <file>file:/D:/NetBeansProjects/dokotera/src/java/sql/dokotera.sql</file>
+            <file>file:/D:/NetBeansProjects/dokotera/src/java/querytools/WhereClauseGenerator.java</file>
+            <file>file:/D:/NetBeansProjects/dokotera/src/java/model/FanafodyParams.java</file>
+            <file>file:/D:/NetBeansProjects/dokotera/src/java/dbaccess/PGSQLConnection.java</file>
+            <file>file:/D:/NetBeansProjects/dokotera/src/java/sql/data.sql</file>
+            <file>file:/D:/NetBeansProjects/dokotera/src/java/sql/view.sql</file>
+            <file>file:/D:/NetBeansProjects/dokotera/src/java/controller/MainTest.java</file>
+        </group>
+    </open-files>
+</project-private>
